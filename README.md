@@ -2,4 +2,4 @@
 
 ## Athletics
 
-[Softball](/softball.md)
+[Softball](softball.md)
