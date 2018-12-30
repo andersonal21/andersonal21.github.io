@@ -50,9 +50,9 @@ Format: ![Alt Text](url)
 
 ## NDP High School/Middle School Athletics
 * Varsity Softball (9th- Present) starting pitcher, 3B
-** AVG: .636
-** OBP: .647
-** SLG: .909
+ * AVG: .636
+ * OBP: .647
+ * SLG: .909
 * MS Softball (6th-8th) starting pitcher, 3B
 * MS Field Hockey (6th-8th) starting forward
 * MS Basketball (6th-8th) starting guard, forward
