@@ -59,36 +59,36 @@ Format: ![Alt Text](url)
 
 ## Travel Softball Experience
 * Lady Orioles Futures/Gold (Fall 2017-Present)
-  ** 2018 Scenic City Fall Showcase-Chattanooga, TN
-  ** 2018 TNT Last Look Fall Showcase-Wilmington, DE
-  ** 2018 Showcase Showdown-Virginia Beach, VA
-  ** 2018 Triple Crown/ Xxtreme Fall Showcase-Southampton, PA
-  ** 2018 Team NJ/ROCK Fastpitch October Showcase-Newtown, PA
-  ** 2018/2017 DeMarini Fall Brawl-Columbus, OH
-  ** 2018 USA MD/DC/DE Class A State Championship-Bowie, MD
-  ** 2018 USA Elite Select Mid-Atlantic Qualifier-Wilmington, DE
-  ** 2018 WFC World Series-Myrtle Beach, SC
-  ** 2018 Great Lakes Premier Showcase-Cleveland, OH
-  ** 2018 NSA Mid-Summer Showcase-Virginia Beach, VA
-  ** 2018 USSSA MD State Championships-Laurel, MD
-  ** 2018 Glory Strikeout Cancer Invitational-Fairfax, VA
-  ** 2018 USA Eastern National Qualifier-Wilmington, DE
-  ** 2017 NSA Fall Championships-Powhatan, VA
+  * 2018 Scenic City Fall Showcase-Chattanooga, TN
+  * 2018 TNT Last Look Fall Showcase-Wilmington, DE
+  * 2018 Showcase Showdown-Virginia Beach, VA
+  * 2018 Triple Crown/ Xxtreme Fall Showcase-Southampton, PA
+  * 2018 Team NJ/ROCK Fastpitch October Showcase-Newtown, PA
+  * 2018/2017 DeMarini Fall Brawl-Columbus, OH
+  * 2018 USA MD/DC/DE Class A State Championship-Bowie, MD
+  * 2018 USA Elite Select Mid-Atlantic Qualifier-Wilmington, DE
+  * 2018 WFC World Series-Myrtle Beach, SC
+  * 2018 Great Lakes Premier Showcase-Cleveland, OH
+  * 2018 NSA Mid-Summer Showcase-Virginia Beach, VA
+  * 2018 USSSA MD State Championships-Laurel, MD
+  * 2018 Glory Strikeout Cancer Invitational-Fairfax, VA
+  * 2018 USA Eastern National Qualifier-Wilmington, DE
+  * 2017 NSA Fall Championships-Powhatan, VA
 * LT Lazers Blue 14U (Fall 2016-2017)
 * Churchville Lightning 12U (Fall 2015-2016)
 * Harford Diamonds 10U/12U (2013-2015)
 
 ## College Softball Clinic/Camps
 * Rock Fastpitch Recruiting Showcase Camp
-  ** 2018 November-Newtown, PA
+  * 2018 November-Newtown, PA
 * Bucknell University
-  ** 2018 Winter All-Skills Clinics
-  ** 2018 Fall All-Skills Clinics
+  * 2018 Winter All-Skills Clinics
+  * 2018 Fall All-Skills Clinics
 * George Mason University
-  ** 2019 High School All-Skills Clinic
-  ** 2018 Fall Mid-Atlantic Recruiting Showcase
+  * 2019 High School All-Skills Clinic
+  * 2018 Fall Mid-Atlantic Recruiting Showcase
 * James Madison University
-  ** 2019 All-Skills Winter Camp
+  * 2019 All-Skills Winter Camp
 * University of Maryland
-  ** 2018 Winter All-Skills Clinic
+  * 2018 Winter All-Skills Clinic
 
