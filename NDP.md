@@ -27,3 +27,5 @@
   * AVG: .636
   * OBP: .647
   * SLG: .909
+* Coach: Emily Solel
+* Email: emily.lessner@gmail.com
