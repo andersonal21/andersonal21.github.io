@@ -14,23 +14,8 @@ Format: ![Alt Text](url)
 * Coach: Emily Solel
 * Email: emily.lessner@gmail.com
 
-## Academics
-* Major of Interest: Computer Science
-* GPA: 4.10
-* SAT/ACT: TBD
-* NCAA Clearinghouse: 1709901770 
-* Honor ROll: 6th-9th grade
 
-## AP/Honors Classes
-* Algebra II (10th)
-* Biology (9th)
-* Chemistry (10th)
-* AP Computer Science Principles (10th)
-* Concert Band- Alto Saxophone (6th-10th)
-* English (10th)
-* Geometry (9th)
-* AP U.S. History 1- Government (10th)
-* World Cultures (9th)
+* NCAA Clearinghouse: 1709901770 
 
 ## Club Field Hockey Experience
 * WC Eagles U14 (2014-2018)
@@ -47,15 +32,6 @@ Format: ![Alt Text](url)
 * Phone: 443-686-9193
 * Parents: Steven & Rosemarie Anderson
 * Videos: youtube.com/channel/UCTQGgd55BVizXCurz2U-3og/videos    
-
-## NDP High School/Middle School Athletics
-* Varsity Softball (9th- Present) starting pitcher, 3B
-  * AVG: .636
-  * OBP: .647
-  * SLG: .909
-* MS Softball (6th-8th) starting pitcher, 3B
-* MS Field Hockey (6th-8th) starting forward
-* MS Basketball (6th-8th) starting guard, forward
 
 ## Travel Softball Experience
 * Lady Orioles Futures/Gold (Fall 2017-Present)
