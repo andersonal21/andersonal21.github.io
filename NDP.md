@@ -22,7 +22,7 @@
   * AP U.S. History 1- Government (10th)
   * World Cultures (9th)
 
-### Varisty Softball
+### [Varsity Softball](https://www.iaamsports.com/sports/sball/2018-19/schedule?teamId=5udlbhy8neo8274n)
 * (9th- Present) starting pitcher, 3B
   * AVG: .636
   * OBP: .647
