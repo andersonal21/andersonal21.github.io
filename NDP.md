@@ -1,4 +1,4 @@
-# Notre Dame Preparatory School
+# [Notre Dame Preparatory School](http://www.notredameprep.com/)
 
 ## Middle School
 
