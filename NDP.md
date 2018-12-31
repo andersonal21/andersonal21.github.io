@@ -22,7 +22,7 @@
   * AP U.S. History 1- Government (10th)
   * World Cultures (9th)
 
-# Varisty Softball
+### Varisty Softball
 * (9th- Present) starting pitcher, 3B
   * AVG: .636
   * OBP: .647
