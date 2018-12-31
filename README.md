@@ -5,5 +5,5 @@
 
 ## Athletics
 
-[Softball](softball.md)
-[Field Hockey](fieldhockey.md)
+* [Softball](softball.md)
+* [Field Hockey](fieldhockey.md)
