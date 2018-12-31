@@ -2,6 +2,10 @@
 
 ## Middle School
 
+* MS Softball (6th-8th) starting pitcher, 3B
+* MS Field Hockey (6th-8th) starting forward
+* MS Basketball (6th-8th) starting guard, forward
+
 ## High School
 * Major of Interest: Computer Science
 * GPA: 4.10
@@ -17,3 +21,9 @@
   * Geometry (9th)
   * AP U.S. History 1- Government (10th)
   * World Cultures (9th)
+
+# Varisty Softball
+* (9th- Present) starting pitcher, 3B
+  * AVG: .636
+  * OBP: .647
+  * SLG: .909
