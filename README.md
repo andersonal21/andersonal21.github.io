@@ -7,3 +7,4 @@
 
 * [Softball](softball.md)
 * [Field Hockey](fieldhockey.md)
+* [Recruiting Contacts](recruitingcontacts.md)
