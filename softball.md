@@ -1,6 +1,6 @@
 ![GitHub Logo](/images/alex-andersonladyos.jpg)
 Format: ![Alt Text](url)
-# Lady Orioles
+# [Lady Orioles](http://www.ladyorioles.com/?cpt_people=alexandra-anderson)
 
 ## Coaches
 * Select Team: Lady Orioles Futures/Gold
@@ -20,7 +20,7 @@ Format: ![Alt Text](url)
 * Address: 1635 Denwright Court, Forest Hill, MD 21050
 * Phone: 443-686-9193
 * Parents: Steven & Rosemarie Anderson
-* Videos: youtube.com/channel/UCTQGgd55BVizXCurz2U-3og/videos    
+* Videos: youtube.com/channel/UCTQGgd55BVizXCurz2U-3og/videos     
 * NCAA Clearinghouse: 1709901770 
 
 ## Tournaments
