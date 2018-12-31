@@ -6,5 +6,6 @@
 ## Athletics
 
 * [Softball](ladyos.md)
+* [NDP Varsity Softball](ndpsoftball.md)
 * [Field Hockey](fieldhockey.md)
 * [Recruiting Contacts](recruitingcontacts.md)
