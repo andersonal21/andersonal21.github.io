@@ -10,12 +10,6 @@ Format: ![Alt Text](url)
 * Pitching Coach: Nicole Thomas (Tincher-certified)
 * Phone: 302-420-9628
 * Email: NicoleThomas@tincherpitching.com
-* High School: Notre Dame Preparatory (NDP)
-* Coach: Emily Solel
-* Email: emily.lessner@gmail.com
-
-
-* NCAA Clearinghouse: 1709901770 
 
 ## Personal Information
 * Bats/Throws: Right/Right
@@ -27,6 +21,7 @@ Format: ![Alt Text](url)
 * Phone: 443-686-9193
 * Parents: Steven & Rosemarie Anderson
 * Videos: youtube.com/channel/UCTQGgd55BVizXCurz2U-3og/videos    
+* NCAA Clearinghouse: 1709901770 
 
 ## Travel Softball Experience
 * Lady Orioles Futures/Gold (Fall 2017-Present)
