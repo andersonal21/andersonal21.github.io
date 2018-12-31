@@ -40,9 +40,6 @@ Format: ![Alt Text](url)
   * 2018 Glory Strikeout Cancer Invitational-Fairfax, VA
   * 2018 USA Eastern National Qualifier-Wilmington, DE
   * 2017 NSA Fall Championships-Powhatan, VA
-* LT Lazers Blue 14U (Fall 2016-2017)
-* Churchville Lightning 12U (Fall 2015-2016)
-* Harford Diamonds 10U/12U (2013-2015)
 
 ## College Softball Clinic/Camps
 * Rock Fastpitch Recruiting Showcase Camp
@@ -53,8 +50,6 @@ Format: ![Alt Text](url)
 * George Mason University
   * 2019 High School All-Skills Clinic
   * 2018 Fall Mid-Atlantic Recruiting Showcase
-* James Madison University
-  * 2019 All-Skills Winter Camp
 * University of Maryland
   * 2018 Winter All-Skills Clinic
 
