@@ -1,8 +1,8 @@
 # Alexandra Millie Anderson
 
+## Academics
+[Middle School & High School](NDP.md)
+
 ## Athletics
 
 [Softball](softball.md)
-
-## Academics
-[Middle School & High School](NDP.md)
