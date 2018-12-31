@@ -7,7 +7,7 @@
 # H20 
 * U10/U12 (2011-2014)
 
-# Field Hockey Experience
+# Experience
 * 2017: USAFH NIT's Team
 * 2016: Future's Region 7
 * 2015: U14 Disney Junior Showcase
