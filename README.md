@@ -3,3 +3,6 @@
 ## Athletics
 
 [Softball](softball.md)
+
+## Academics
+[Academics](Academics.md)
