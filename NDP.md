@@ -15,9 +15,3 @@
   * Geometry (9th)
   * AP U.S. History 1- Government (10th)
   * World Cultures (9th)
-  
-## Middle School
-
-* MS Softball (6th-8th) starting pitcher, 3B
-* MS Field Hockey (6th-8th) starting forward
-* MS Basketball (6th-8th) starting guard, forward
