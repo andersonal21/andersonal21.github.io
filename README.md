@@ -5,6 +5,6 @@
 
 ## Athletics
 
-* [Softball](softball.md)
+* [Softball](ladyos.md)
 * [Field Hockey](fieldhockey.md)
 * [Recruiting Contacts](recruitingcontacts.md)
