@@ -33,11 +33,6 @@ Format: ![Alt Text](url)
   * 2018 Glory Strikeout Cancer Invitational-Fairfax, VA
   * 2018 USA Eastern National Qualifier-Wilmington, DE
   * 2017 NSA Fall Championships-Powhatan, VA
-  
-## Other Softball Experience
-* LT Lazers Blue 14U (Fall 2016-2017)
-* Churchville Lightning 12U (Fall 2015-2016)
-* Harford Diamonds 10U/12U (2013-2015)
 
 ## College Softball Clinic/Camps
 * Rock Fastpitch Recruiting Showcase Camp
@@ -52,3 +47,5 @@ Format: ![Alt Text](url)
   * 2018 Winter All-Skills Clinic
 
 # [LT Lazers Blue 14U (Fall 2016-2017)](http://www.ltlazers.com/14UBLUE.html)
+# [Churchville Lightning 12U (Fall 2015-2016)](http://www.churchvillelightning.org/index.php)
+# [Harford Diamonds 10U/12U (2013-2015)](https://www.harforddiamondssoftball.com/)
