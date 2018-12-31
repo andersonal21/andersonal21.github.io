@@ -1,5 +1,6 @@
 ![GitHub Logo](/images/alex-andersonladyos.jpg)
 Format: ![Alt Text](url)
+# [USSSA Profile](https://usssa.com/fastpitch/PlayerLocker/?playerID=4821778)
 # [Lady Orioles Futures/Gold](http://www.ladyorioles.com/?cpt_people=alexandra-anderson)
 
 ## Coaches
