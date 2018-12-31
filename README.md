@@ -5,7 +5,7 @@
 
 ## Athletics
 
+* [Recruiting Contacts](recruitingcontacts.md)
 * [Softball](ladyos.md)
 * [NDP Athletics](ndpsoftball.md)
 * [Field Hockey](fieldhockey.md)
-* [Recruiting Contacts](recruitingcontacts.md)
