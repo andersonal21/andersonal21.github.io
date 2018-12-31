@@ -17,11 +17,6 @@ Format: ![Alt Text](url)
 
 * NCAA Clearinghouse: 1709901770 
 
-## Club Field Hockey Experience
-* WC Eagles U14 (2014-2018)
-** 2018 National Indoor Tournament: U14- 1st place
-* H20 U10/U12 (2011-2014)
-
 ## Personal Information
 * Bats/Throws: Right/Right
 * Birth Date: 1/10/20014
