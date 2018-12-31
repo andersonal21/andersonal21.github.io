@@ -15,12 +15,6 @@ Format: ![Alt Text](url)
 * Birth Date: 1/10/20014
 * Age: 14
 * Height: 5'3"
-* Email: alexandra.millie.anderson@gmail.com
-* Address: 1635 Denwright Court, Forest Hill, MD 21050
-* Phone: 443-686-9193
-* Parents: Steven & Rosemarie Anderson
-* Videos: youtube.com/channel/UCTQGgd55BVizXCurz2U-3og/videos     
-* NCAA Clearinghouse: 1709901770 
 
 ## Tournaments
 * Lady Orioles Futures/Gold (Fall 2017-Present)
