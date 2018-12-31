@@ -13,7 +13,7 @@ Format: ![Alt Text](url)
 
 ## Personal Information
 * Bats/Throws: Right/Right
-* Birth Date: 1/10/20014
+* Birth Date: 1/10/2004
 * Age: 14
 * Height: 5'3"
 
