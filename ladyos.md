@@ -51,3 +51,4 @@ Format: ![Alt Text](url)
 * University of Maryland
   * 2018 Winter All-Skills Clinic
 
+# [LT Lazers Blue 14U (Fall 2016-2017)](http://www.ltlazers.com/14UBLUE.html)
