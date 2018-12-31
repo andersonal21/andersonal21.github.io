@@ -5,4 +5,4 @@
 [Softball](softball.md)
 
 ## Academics
-[Academics](Academics.md)
+[Academics](NDP.md)
