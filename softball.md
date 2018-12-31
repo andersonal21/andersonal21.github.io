@@ -23,7 +23,7 @@ Format: ![Alt Text](url)
 * Videos: youtube.com/channel/UCTQGgd55BVizXCurz2U-3og/videos    
 * NCAA Clearinghouse: 1709901770 
 
-## Travel Softball Experience
+## Tournaments
 * Lady Orioles Futures/Gold (Fall 2017-Present)
   * 2018 Scenic City Fall Showcase-Chattanooga, TN
   * 2018 TNT Last Look Fall Showcase-Wilmington, DE
@@ -40,6 +40,11 @@ Format: ![Alt Text](url)
   * 2018 Glory Strikeout Cancer Invitational-Fairfax, VA
   * 2018 USA Eastern National Qualifier-Wilmington, DE
   * 2017 NSA Fall Championships-Powhatan, VA
+  
+## Other Softball Experience
+* LT Lazers Blue 14U (Fall 2016-2017)
+* Churchville Lightning 12U (Fall 2015-2016)
+* Harford Diamonds 10U/12U (2013-2015)
 
 ## College Softball Clinic/Camps
 * Rock Fastpitch Recruiting Showcase Camp
