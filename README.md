@@ -5,4 +5,4 @@
 [Softball](softball.md)
 
 ## Academics
-[Academics](NDP.md)
+[Middle School & High School](NDP.md)
