@@ -1,9 +1,8 @@
 ![GitHub Logo](/images/alex-andersonladyos.jpg)
 Format: ![Alt Text](url)
-# [Lady Orioles](http://www.ladyorioles.com/?cpt_people=alexandra-anderson)
+# [Lady Orioles Futures/Gold](http://www.ladyorioles.com/?cpt_people=alexandra-anderson)
 
 ## Coaches
-* Select Team: Lady Orioles Futures/Gold
 * Coach: Randy Mohr
 * Phone: 443-324-7094
 * Email: futures@ladyorioles.com
