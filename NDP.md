@@ -1,11 +1,5 @@
 # [Notre Dame Preparatory School](http://www.notredameprep.com/)
 
-## Middle School
-
-* MS Softball (6th-8th) starting pitcher, 3B
-* MS Field Hockey (6th-8th) starting forward
-* MS Basketball (6th-8th) starting guard, forward
-
 ## High School
 * Major of Interest: Computer Science
 * GPA: 4.10
@@ -29,3 +23,9 @@
   * SLG: .909
 * Coach: Emily Solel
 * Email: emily.lessner@gmail.com
+
+## Middle School
+
+* MS Softball (6th-8th) starting pitcher, 3B
+* MS Field Hockey (6th-8th) starting forward
+* MS Basketball (6th-8th) starting guard, forward
