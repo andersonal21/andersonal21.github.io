@@ -36,8 +36,6 @@ Format: ![Alt Text](url)
   * 2017 NSA Fall Championships-Powhatan, VA
 
 ## College Softball Clinic/Camps
-* Rock Fastpitch Recruiting Showcase Camp
-  * 2018 November-Newtown, PA
 * Bucknell University
   * 2018 Winter All-Skills Clinics
   * 2018 Fall All-Skills Clinics
